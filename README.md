@@ -1,5 +1,7 @@
 # Todo
 
+### [View Demo](https://i-varunrana.github.io/todo/)
+
 Simple todo using MVC application in plain JavaScript
 
 ### Purpose
